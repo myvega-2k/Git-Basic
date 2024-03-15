@@ -10,6 +10,7 @@ function login(username, password) {
 }
 
 function logout() {
+    //cookie 삭제
     console.log("로그아웃")
 }
 
